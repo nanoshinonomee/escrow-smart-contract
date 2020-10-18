@@ -1,0 +1,5 @@
+
+
+Escrow - it's just a middle man
+its a representation of a contract between 2 parties
+it solves an issue of trust by having a 3rd party
